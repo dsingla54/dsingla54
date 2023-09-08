@@ -6,7 +6,7 @@ Welcome to my GitHub sanctuary! I'm a passionate Business and Software Enthusias
 
 - 🚀 Space Exploration
 - 🌱 Sustainable Technology
-- 🎨 Digital Art
+- 💰 Entrepreneurship
 - 🎮 Video Games
 - 📚 Learning New Things
 
@@ -24,10 +24,12 @@ This code demonstrates a simplified predator-prey ecosystem using reinforcement 
 
 ### Accelerometer-Enhanced GPS Tracker(IoT based)
 
+an IoT device that integrates various sensors to collect and transmit data. The device gathers temperature, touch, and accelerometer readings, along with GPS data, and sends them via a web request to a designated recipient. The program is written in Arduino language and is designed to run on compatible hardware.
+
 
 ## 🤝 Let's Connect
 
-If you share my enthusiasm for [Your Interests], I'd love to connect:
+If you share my enthusiasm for Science and Entreprenuership, I'd love to connect:
 
 - 📧 Email: dhruvsingla3000@gmail.com
 - 🌐 LinkedIn: https://www.linkedin.com/in/dsingla54/
