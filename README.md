@@ -1,4 +1,5 @@
 # Hello, I'm Dhruv Singla 👋
+[![image](https://github.com/dsingla54/dsingla54/assets/139515749/596249bf-f632-4a0b-b521-38a928834d18)](https://64.media.tumblr.com/eb1498e028d2b1ecede695a948cfc4ea/tumblr_nadi2pqZQZ1tbzfsfo1_400.gifv)
 
 Welcome to my GitHub sanctuary! I'm a passionate Business and Software Enthusiast based in Bengaluru. Here, I delve into projects that pique my curiosity and creativity.
 
